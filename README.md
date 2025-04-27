@@ -49,4 +49,3 @@ This project analyzes a dataset containing information about patient hospitaliza
 
 - **Best Model**: Random Forest with optimized parameters.
 - **Test Accuracy**: 62%.
-- **Classification Report**:
